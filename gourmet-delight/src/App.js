@@ -5,7 +5,7 @@ import Menu from './components/Menu';
 import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import './styles.css';
+import './style.css';
 
 function App() {
   return (
